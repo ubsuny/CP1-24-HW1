@@ -49,8 +49,8 @@ Also use discord for discussing solutions to any issues popping up.
 | Total                            | 43             |              | 16         |
 |                                  |                |              |            |
 | Shared project points            |                |              |            |
-| \# Label                         | 10             | $\frac 1 2$  | 5          |
-| \# Milestones                    | 0              | 1            | 0          |
+| \# Label                         | 8              | $\frac 1 2$  | 4          |
+| \# Milestones                    | 1              | 1            | 1          |
 | \# Tags                          | 0              | 1            | 0          |
 |                                  |                |              |            |
 | Total                            | 10             |              | 5          |
