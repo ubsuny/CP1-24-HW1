@@ -53,7 +53,7 @@ Also use discord for discussing solutions to any issues popping up.
 | \# Milestones                    | 1              | 1            | 1          |
 | \# Tags                          | 0              | 1            | 0          |
 |                                  |                |              |            |
-| Total                            | 10             |              | 5          |
+| Total                            | 9              |              | 5          |
 |                                  |                |              |            |
 |                                  |                |              |            |
 | Result                           |                |              |            |
