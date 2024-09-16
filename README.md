@@ -13,10 +13,10 @@ For this you have to complete the following steps:
 - Generate the necessary files for your task and commit them. Commmit not just the final result but also intermediate steps. (Think of it like saving the file. Everytime you save, commit).
 - create pull requests for your work.
 
-While you're working on it you will probably run into multiple issues. Generate issues for them and discuss solutions. Also check repositories of the other groups. Examples for issues you will probably face:
+While you're working on it you will probably run into multiple issues. Generate issues for them and discuss solutions. Also check other people's issues and try to answer them. Examples for issues you will probably face:
 
 - Which development environment should I use
-- How to interact with the IBM quantum quantum computer
+- How to interact with the IBM quantum computer
 - How to solve merge conflicts
 - How do I undo a commit
 - ...
