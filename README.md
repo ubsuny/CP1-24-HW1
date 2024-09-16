@@ -10,7 +10,7 @@ For this you have to complete the following steps:
 - Discuss who should be the main responsible for the repository (the one that can accept merge requests). The main responsible does not have to contribute to the project but gets 21 points instead for managing the repository and merging pull requests.
 - Discuss and generate labels for your issues.
 - Fork this repository.
-- Generate the necessary files for your task and commit them. Commmit not just the final result but also intermediate steps. (Think of it like saving the file. Everytime you save, commit).
+- Generate the necessary files for your task and commit them. Commit not just the final result but also intermediate steps. (Think of it like saving the file. Everytime you save, commit).
 - create pull requests for your work.
 
 While you're working on it you will probably run into multiple issues. Generate issues for them and discuss solutions. Also check other people's issues and try to answer them. Examples for issues you will probably face:
