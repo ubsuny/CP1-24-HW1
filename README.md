@@ -5,7 +5,7 @@
 
 For this you have to complete the following steps:
 
-- Discuss in this repository *using issus* where to start.
+- Discuss in this repository *using issues* where to start.
 - Discuss in this repository *using issues* who will do which task.
 - Discuss who should be the main responsible for the repository (the one that can accept merge requests). The main responsible does not have to contribute to the project but gets 21 points instead for managing the repository and merging pull requests.
 - Discuss and generate labels for your issues.
