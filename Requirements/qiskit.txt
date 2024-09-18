@@ -1,0 +1,6 @@
+numpy
+pandas
+qiskit[visualization]
+qiskit-aer
+qiskit-ibm-provider
+qiskit-ibm-runtime
