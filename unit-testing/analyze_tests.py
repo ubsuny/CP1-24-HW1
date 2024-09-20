@@ -2,7 +2,7 @@
 #       defining test cases across a consistent range. The default value should be
 #       reassessed later on.
 
-#TODO:  Make the test responses less
+#TODO:  clean up test responses
 
 # import the math module
 import math
