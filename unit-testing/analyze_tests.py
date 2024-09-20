@@ -15,10 +15,10 @@ def analyze_chsh_result(counts, expected_probabilities, shots, tolerance=0.05):
     Compare raw counts to expected probabilities and print the result of the analysis.
 
     Args:
-        counts (dict): Measurement results from the circuit.
-        expected_probabilities (dict): The expected probabilities for each outcome.
-        shots (int): Total number of measurements taken.
-        tolerance (float): Allowed deviation from the expected probability.
+        counts: Measurement results from the circuit.
+        expected_probabilities: The expected probabilities for each outcome.
+        shots: Total number of measurements taken.
+        tolerance: Allowed deviation from the expected probability.
     """
     for outcome, count in counts.items():
         measured_prob = count / shots
@@ -35,7 +35,7 @@ def analyze_chsh_tests(test_cases):
     Analyze the test cases and output results.
 
     Args:
-        test_cases (list): List of test cases to analyze.
+        test_cases: List of test cases to analyze.
     """
     # get the total number of tests prepared
     total_tests_count = len(test_cases)
