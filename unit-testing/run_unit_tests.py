@@ -10,7 +10,7 @@ def run_chsh_tests():
     Retrieve predefined test cases from raw output.
 
     Returns:
-        list of dicts: a list of the prepared test cases, each case a dict
+        test_cases: a list of the prepared test cases, each case a dict
     """
     test_cases = prepare_test_cases()       # prep the test cases
     return test_cases                       # return them to the caller

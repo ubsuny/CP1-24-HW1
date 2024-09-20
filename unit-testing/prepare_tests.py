@@ -19,7 +19,7 @@ def prepare_test_cases():
     To test additional cases, add them to test_cases (a list of test cases)
 
     Returns:
-        list of dicts: a list of the prepared test cases, each case a single dict
+        test_cases: a list of the prepared test cases, each case a single dict
     """
     test_cases = []
 
