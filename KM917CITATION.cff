@@ -13,8 +13,10 @@ authors:
     email: kylemasc@buffalo.edu
     affiliation: University of Buffalo
 repository-code: 'https://github.com/kylemasc917/CP1-24-HW1'
+version: 1.0.0
 abstract: >-
   Background on EPR paradox for CP1-24-HW1 by Kyle Mascara
   outlining some important background in quantum mechanics
   and the EPR paradox that John Stewart Bell was critiquing.
 license: CC0-1.0
+date-released: 2024-09-20
