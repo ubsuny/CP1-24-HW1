@@ -2,13 +2,11 @@
 #I copied this from https://learning.quantum.ibm.com/tutorial/chsh-inequality
 #Defining the circuit with the parameter theta
 
+#Import all the modules 
 from qiskit import QuantumCircuit
 from qiskit.circuit import Parameter
 import numpy as np
 import matplotlib.pyplot as plt  # For drawing circuits in MPL
-
-
-# editing this code 1
 
 theta = Parameter("$\\theta$")
 
@@ -31,4 +29,5 @@ phases = np.linspace(0, 2 * np.pi, number_of_phases)
 # 'Phases need to be expressed as list of lists in order to work' also copied for your convieneance
 individual_phases = [[ph] for ph in phases]
 
+#Show the circuit
 plt.show()
