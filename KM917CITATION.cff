@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Background on EPR Paradox for CP1-24-HW1
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kyle
+    family-names: Mascara
+    email: kylemasc@buffalo.edu
+    affiliation: University of Buffalo
+repository-code: 'https://github.com/kylemasc917/CP1-24-HW1'
+abstract: >-
+  Background on EPR paradox for CP1-24-HW1 by Kyle Mascara
+  outlining some important background in quantum mechanics
+  and the EPR paradox that John Stewart Bell was critiquing.
+license: CC0-1.0
