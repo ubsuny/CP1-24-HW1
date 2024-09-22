@@ -30,3 +30,5 @@ number_of_phases = 21
 phases = np.linspace(0, 2 * np.pi, number_of_phases)
 # 'Phases need to be expressed as list of lists in order to work' also copied for your convieneance
 individual_phases = [[ph] for ph in phases]
+
+plt.show()
