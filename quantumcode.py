@@ -1,6 +1,9 @@
 #Comments for a line are done above said line
 #I copied this from https://learning.quantum.ibm.com/tutorial/chsh-inequality
 #Defining the circuit with the parameter theta
+
+# editing this code 1
+
 theta = Parameter("$\\theta$")
 
 #This initializes the quantum circut 'same link as above'
