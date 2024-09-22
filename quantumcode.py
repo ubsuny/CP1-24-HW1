@@ -2,6 +2,12 @@
 #I copied this from https://learning.quantum.ibm.com/tutorial/chsh-inequality
 #Defining the circuit with the parameter theta
 
+from qiskit import QuantumCircuit
+from qiskit.circuit import Parameter
+import numpy as np
+import matplotlib.pyplot as plt  # For drawing circuits in MPL
+
+
 # editing this code 1
 
 theta = Parameter("$\\theta$")
