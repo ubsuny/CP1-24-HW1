@@ -4,4 +4,5 @@ To test the code in this repository you can use the included codespace. There is
 
 Description of files in this repo:
 
-- 
+- Python directory: contains Python source files
+- Jupyter directory: contains Jupyter notebooks
