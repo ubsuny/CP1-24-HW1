@@ -36,3 +36,11 @@
  	  properties of objects exist in some sense
  	  independent of measurement choice.
 
+
+
+
+References:
+[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777.
+
+[2] D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)
+
