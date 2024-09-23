@@ -1,5 +1,6 @@
-History:
-In 1935, Albert Einstein teamed up with Boris Podolsky and Nathan Rosen to publish a paper commonly known by the initials EPR. 
+# Bell Inequality
+## History:
+In 1935, Albert Einstein teamed up with Boris Podolsky and Nathan Rosen to publish a paper commonly known by the initials EPR[1]{}. 
 They argued that Quantum Mechanics (QM) was incomplete because it relied on so-called "Hidden Variables" that could account for some of the uncertainties in QM. Hidden Variables refer to microscopic characteristics of fundamental particles that we cannot currently observe due to technological limitations, although future advancements might change this. 
 In other words, we may need more advanced tools to uncover the details at the smallest scales. Since we cannot currently see these variables, they remain "hidden."
 However, understanding them could clarify the otherwise puzzling behaviour of particles. 
@@ -10,3 +11,7 @@ This idea aligns with the Heisenberg Uncertainty Principle (HUP). They also clai
 Einstein famously stated, "I think that a particle must have a separate reality independent of the measurements. 
 That is: an electron has spin, location, and so on, even when it is not being measured. I like to think that the moon is there even if I am not looking at it." While some accepted this view, others, including Bell, disagreed.
 Quantum Mechanics suggests that observation influences reality, and can do so retroactively, a notion that, while strange, is consistent with the evidence. Building on this, Bell demonstrated that local Hidden Variables would lead to contradictions with QM predictions in specific scenarios. Thus, Bell's Theorem builds on EPR, revealing a critical requirement known as Bell's Inequality, which was not immediately apparent until 30 years later.
+
+
+## References:
+[1][]{}
