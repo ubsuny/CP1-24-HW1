@@ -1,7 +1,7 @@
 # Bell Inequality
 
 ## History
--Einstein believed that quantum mechanics was an incomplete description of reality. [1]{https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777}. Einstein, in particular believed that quantum mechanics was an approximation to a local, deterministic theory. 
+-Einstein believed that quantum mechanics was an incomplete description of reality. [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777). Einstein, in particular believed that quantum mechanics was an approximation to a local, deterministic theory. 
 -	Story starts with a famous paper by Einstein, Podolsky and Rosen in 1935.In the title of their 1935 article, Einstein, Podolsky and Rosen [EPR] ask whether quantum mechanics can be considered as a complete description of physical reality. [1]{https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777}
 
 ## Assumptions in their argument [EPR Article]:
