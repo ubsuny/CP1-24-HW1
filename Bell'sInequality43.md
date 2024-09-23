@@ -14,4 +14,4 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 
 
 ## References:
-[1][]{}
+[1][A. Einstein, B. Podolsky, N. Rosen: "Can quantum-mechanical description of physical reality be considered complete?" Physical Review 41, 777 (15 May 1935)]{https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf}
