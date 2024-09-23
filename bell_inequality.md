@@ -38,7 +38,7 @@ The theorem's assumes that:
 
 
 References:
-[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777. (https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777. [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 
-[2] D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)(https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166)
+[2] D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)[2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166)
 
