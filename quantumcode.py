@@ -21,7 +21,6 @@ chsh_circuit.ry(theta, 0)
 #The func chsh_circuit.draw creates and outputs a picture that shows the quantum circut in the way you would learn about them i.e. the way IBM quantum learning lets you work on them
 chsh_circuit.draw(output="mpl", idle_wires=False, style="iqp")
 
-
 #Now to continue onto creating a list of phase values to be used latter copied from same link from line 2
 
 number_of_phases = 21
