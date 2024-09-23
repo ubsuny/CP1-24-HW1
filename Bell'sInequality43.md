@@ -11,7 +11,7 @@ This idea aligns with the Heisenberg Uncertainty Principle (HUP). They also clai
 Einstein famously stated, "I think that a particle must have a separate reality independent of the measurements. 
 That is: an electron has spin, location, and so on, even when it is not being measured. I like to think that the moon is there even if I am not looking at it." While some accepted this view, others, including Bell, disagreed.
 Quantum Mechanics suggests that observation influences reality, and can do so retroactively, a notion that, while strange, is consistent with the evidence. Building on this, Bell demonstrated that local Hidden Variables would lead to contradictions with QM predictions in specific scenarios. Thus, Bell's Theorem builds on EPR, revealing a critical requirement known as Bell's Inequality, which was not immediately apparent until 30 years later.
-$\displaystyle{x}=\frac{{-{b}\pm\sqrt{{{b}^{2}-{4}{a}{c}}}}}{{{2}{a}}}$
+
 
 ## References:
 [1][A. Einstein, B. Podolsky, N. Rosen: "Can quantum-mechanical description of physical reality be considered complete?" Physical Review 41, 777 (15 May 1935)]{https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf}
