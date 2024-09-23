@@ -46,7 +46,7 @@ Also use discord for discussing solutions to any issues popping up.
 | Closed Issues                    | 6              | $\frac 1 3$  | 2          |
 | \# Conversations                 | 25             | $\frac 1 5$  | 5          |
 |                                  |                |              |            |
-| Total                            | 43             |              | 16         |
+| Total                            | 44             |              | 16         |
 |                                  |                |              |            |
 | Shared project points            |                |              |            |
 | \# Label                         | 8              | $\frac 1 2$  | 4          |
