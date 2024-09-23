@@ -1,6 +1,6 @@
 # Bell Inequality
 ## History:
-In 1935, Albert Einstein teamed up with Boris Podolsky and Nathan Rosen to publish a paper commonly known by the initials EPR[1]{}. 
+In 1935, Albert Einstein teamed up with Boris Podolsky and Nathan Rosen to publish a paper commonly known by the initials EPR[1](https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf). 
 They argued that Quantum Mechanics (QM) was incomplete because it relied on so-called "Hidden Variables" that could account for some of the uncertainties in QM. Hidden Variables refer to microscopic characteristics of fundamental particles that we cannot currently observe due to technological limitations, although future advancements might change this. 
 In other words, we may need more advanced tools to uncover the details at the smallest scales. Since we cannot currently see these variables, they remain "hidden."
 However, understanding them could clarify the otherwise puzzling behaviour of particles. 
