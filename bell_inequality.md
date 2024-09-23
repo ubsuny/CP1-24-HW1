@@ -2,7 +2,7 @@
 
 ## History
 -Einstein believed that quantum mechanics was an incomplete description of reality. [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777). Einstein, in particular believed that quantum mechanics was an approximation to a local, deterministic theory. 
--	Story starts with a famous paper by Einstein, Podolsky and Rosen in 1935.In the title of their 1935 article, Einstein, Podolsky and Rosen [EPR] ask whether quantum mechanics can be considered as a complete description of physical reality. [1]{https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777}
+-	Story starts with a famous paper by Einstein, Podolsky and Rosen in 1935.In the title of their 1935 article, Einstein, Podolsky and Rosen [EPR] ask whether quantum mechanics can be considered as a complete description of physical reality. [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 
 ## Assumptions in their argument [EPR Article]:
 - locality – no influence between space-like separated events.
@@ -23,7 +23,7 @@ As applied to quantum mechanics:
 - If one could prepare quantum states with prescribed values of that hidden variable or manipulate them at will, quantum mechanical predictions would disagree with experiments. 
 
 
-In the early 1950's David Bohm was a young Physics professor at Princeton University. Einstein was at Princeton at this time. Bohm spent many years in search of hidden variables, unobserved factors inside, say, a radioactive atom that determines when it is going to decay. In a hidden variable theory, the time for the decay to occur is not random, although the variable controlling the process is hidden from us. In 1952 Bohm constructs a hidden variable theory that reproduces quantum mechanics – de Broglie-Bohm mechanics. Bohm’s model is not of the desire of EPR who want a local, hidden variable theory. [2]{https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166}
+In the early 1950's David Bohm was a young Physics professor at Princeton University. Einstein was at Princeton at this time. Bohm spent many years in search of hidden variables, unobserved factors inside, say, a radioactive atom that determines when it is going to decay. In a hidden variable theory, the time for the decay to occur is not random, although the variable controlling the process is hidden from us. In 1952 Bohm constructs a hidden variable theory that reproduces quantum mechanics – de Broglie-Bohm mechanics. Bohm’s model is not of the desire of EPR who want a local, hidden variable theory. [2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166)
 
 The debate about the completeness of quantum mechanics was considered to be merely philosophical until 1964 when John Bell showed that quantum mechanics and hidden-variable theories were mathematically incompatible. He derived an inequality based on Bohm-type quantum systems which showed that any local realistic theory and quantum mechanics predicted two different probabilistic outcomes. His work was further elaborated on by Clauser, Horne, Shimony and Holt.
 
@@ -38,7 +38,7 @@ The theorem's assumes that:
 
 
 References:
-[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777.
+[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777. (https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 
 [2] D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)(https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166)
 
