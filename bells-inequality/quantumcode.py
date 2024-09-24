@@ -23,7 +23,10 @@ All code sourced from https://learning.quantum.ibm.com/tutorial/chsh-inequality 
 #TODO: Consider placing the main routine in a function for greater control over execution
 
 
-#FIX: QuantumCircuit referenced but never defined
+
+
+
+
 chsh_circuit = QuantumCircuit(2)    # Initialize a quantum circut with 2 qubits
 chsh_circuit.h(0)                   # Add a hadamard gate to the first qubit
 chsh_circuit.cx(0, 1)               # Add controlled-NOT gate to both qubits
