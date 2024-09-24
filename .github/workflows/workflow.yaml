@@ -10,17 +10,13 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Python
+    - name: Set up Python 3.9.6  # Ensure you're using Python 3.9.6
       uses: actions/setup-python@v4
       with:
-        python-version: '3.12'  # Assuming you're using Python 3.12
+        python-version: '3.9.6'  # Specify Python 3.9.6 explicitly
 
-    - name: Install distutils for Python
+    - name: Install distutils if necessary  # For Python 3.9, distutils should already be included, but just in case
       run: sudo apt-get install python3-distutils
-
-    # Alternatively, you can use pip to install distutils as part of setuptools and wheel
-    # - name: Install setuptools and wheel
-    #   run: pip install --upgrade setuptools wheel
 
     - name: Install dependencies
       run: pip install -r requirements.txt
