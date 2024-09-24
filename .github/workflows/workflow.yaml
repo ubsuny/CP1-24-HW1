@@ -55,5 +55,5 @@ jobs:
     # Ensure the working directory is set correctly
     - name: Run your Python script
       run: |
-        cd path_to_the_folder_containing_script  # Change this to your correct directory
-        python3.9 run_chsh_inequality.py
+        cd chsh_inequality  # Move into the chsh_inequality directory
+        python3.9 run_chsh_inequality.py  # Run the Python script
