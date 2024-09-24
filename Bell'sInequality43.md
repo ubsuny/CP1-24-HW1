@@ -36,7 +36,7 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
    * Any Quantum correlations under local hidden variable theory do not satisfy bell's inequalities.
    * Demonstration by bell test experiments
 * Simple version of a Bell's Inequality
-* 
+   * Various possible polarization combinations of the two EPR photon
 
 
 
