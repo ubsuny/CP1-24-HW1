@@ -1,4 +1,4 @@
-This repository contains the codes implementing Bell's inequality on a quantum computer.
+This repository contains the codes implementing Bell's inequality on a quantum computer and documentation explaining the Physics behind the code.
 
 Contents:
 
@@ -6,3 +6,4 @@ Contents:
 2. bells-inequality - folder containing quantumcode.py, the computational implementation of CHSH inequality
 3. unit-testing - folder for unit tests for the code
 4. Requirements - folder containing qiskit documentation
+5. jupyter-notebooks - folder containing jupyter notebook to test the code locally, on a classical computer
