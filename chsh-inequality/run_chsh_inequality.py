@@ -1,9 +1,10 @@
 # Import necessary libraries
 import numpy as np
-from qiskit import QuantumCircuit, execute, Aer, IBMQ
+from qiskit import QuantumCircuit, Aer, IBMQ
+from qiskit.execute_function import execute
 from qiskit.visualization import plot_histogram
-from qiskit.quantum_info import Statevector
 from qiskit.providers.ibmq import least_busy
+
 
 # Initialize IBMQ account
 IBMQ.load_account()
