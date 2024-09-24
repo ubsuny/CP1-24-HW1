@@ -52,7 +52,7 @@ Consider the quantity $\displaystyle{{g}_{{n}}}$, a combination of the measureme
 
 $\displaystyle{{g}_{{n}}=}{a}_{{n}}{b}_{{n}}+{a}_{{n}}{{b}_{{n}}^{'}}+{{a}_{{n}}^{'}}{b}_{{n}}-{{a}_{{n}}^{'}}{b}^{'}$
 
-$\displaystyle{{g}_{{n}}=}{a}_{{n}}{\left({b}_{{n}}+{{b}_{{n}}^{'}}\right)}+{{a}_{{n}}^{'}}{\left({b}_{{n}}-{{b}_{{n}}^{'}}\right)}$
+$\displaystyle{\left|\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{{g}_{{n}}{\left|=\right|}}{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$
 
 $\displaystyle{{g}_{{{n}}}=}\pm{2}$
 
