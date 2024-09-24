@@ -30,15 +30,44 @@ The debate about the completeness of quantum mechanics was considered to be mere
 ## Bell theorem.
 It was cast in terms of a hidden variable theory.The essence of Bell’s theorem is that quantum mechanical probabilities cannot arise from the ignorance of local pre-existing variables. In other words, if we want to assign pre-existing (but hidden) properties to explain probabilities in quantum measurements, these properties must be nonlocal. Bell takes EPRs argument as a working hypothesis, that a local hidden variable theory exists, reproducing the results of Quantum Mechanics and tries to derive experimental consequences.
 The theorem's assumes that:
-- no influence between space-like separated like separated events.
-- properties of objects exist in some sense
-- independent of measurement choice.
+- no influence between space-like separated like separated events (locality).
+- properties of objects exist in some sense (realism)
+- independent of measurement choice (free will of experimenter)
 
+## Bell’s inequalities – The CHSH*[3](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.23.880) inequality
+
+![image](https://github.com/user-attachments/assets/cfdac3d2-eaf6-4f41-8e44-0c1ad0ed2220)
+
+- Perform experiment N times, each trial labelled by n.
+- Two measurement settings on each particle represented by vectors *a, a’* and *b, b’*
+- Measurement outcomes labelled $\displaystyle{a}_{{n}},{a}_{{n}}\text{'}{\quad\text{and}\quad}{b}_{{n}},{b}_{{n}}\text{'}$.
+- There can be two measurement outcomes with value 1 or -1
+- Assume each measurement reveals a pre-existing property (realism)
+- Assume measurement outcome on one of particles not influenced by measurement
+setting on the other particle (locality)
+- Assume measurement setting chosen independent of state of particles (free will)
+
+Consider the quantity $\displaystyle{{g}_{{n}}}$, a combination of the measurement outcomes on the $\displaystyle{n}^{{{t}{h}}}$ trial:
+$\displaystyle{{g}_{{n}}=}{a}_{{n}}{b}_{{n}}+{a}_{{n}}{{b}_{{n}}^{'}}+{{a}_{{n}}^{'}}{b}_{{n}}-{{a}_{{n}}^{'}}{b}^{'}$
+$\displaystyle{{g}_{{n}}=}{a}_{{n}}{\left({b}_{{n}}+{{b}_{{n}}^{'}}\right)}+{{a}_{{n}}^{'}}{\left({b}_{{n}}-{{b}_{{n}}^{'}}\right)}$
+$\displaystyle{{g}_{{{n}}}=}\pm{2}$
+
+The expectation value is therefore:
+$\displaystyle{\left|\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{{g}_{{n}}{\left|=\right|}}{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$
+$\displaystyle{C}{\left({a},{b}\right)}={|}\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{a}_{{n}}{b}_{{n}}$
+$\displaystyle{\left|{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$
+
+Note: Note that in deriving the CHSH inequality we have not assumed any
+particular theory, only that it has to be a local, realistic theory. This is the
+power, generality and simplicity of the result. It provides a bound on any
+theory of this type.
 
 
 
 References:
-[1] Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777. [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+[1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777.
 
-[2] D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)[2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166)
+[2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166) D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)
 
+[3](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.23.880) J. F. Clauser, M. A. Horne, A. Shimony and R. A. Holt. Proposed experiment to
+test local hidden-variable theories. Phys. Rev. Lett. 23, 880 (1969)
