@@ -77,7 +77,7 @@ $={1}\sqrt{{2}}{1}{2}{\left[ \cos{{\left(\phi\right)}}+ \cos{{\left({2}\theta-\p
 
 $={1}\sqrt{{2}} \cos{\phi}$
 
-
+  * We can conclude that the probabilty of the left photon passing the 
 
 
 
