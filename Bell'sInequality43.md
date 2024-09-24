@@ -31,7 +31,7 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 ## Bell's theorem
 * Proppsed by John Stewart Bell, in the paper that " On the Einstein- Podolsky-Rosen paradox", 1964.
 * A awy of distinguishing experimentally between local hidden variable theories and the predictions of Quantum Mechanics
-* Bell's Inequality - ρ(a,c)−ρ(b,a)−ρ(b,c)≤1
+* Bell's Inequality - $\displaystyle\rho{\left({a},{c}\right)}-\rho{\left({b},{a}\right)}-\rho{\left({b},{c}\right)}\le{1}$
    * Inequality that derived from local hidden variable theory
    * Any Quantum correlations under local hidden variable theory do not satisfy bell's inequalities.
    * Demonstration by bell test experiments
