@@ -7,7 +7,7 @@ It is intended to be executed as an application. Functionality includes preparin
 a 2-qubit quantum circuit via qiskit, implementing the CHSH inequality, and running
 it on the IBM quantum infrastructure via API.
 
-All code sourced from https://learning.quantum.ibm.com/tutorial/chsh-inequality
+All code sourced from https://learning.quantum.ibm.com/tutorial/chsh-inequality (for learning purposes)
 """
 
 #TODO: Add exception handling.
