@@ -4,13 +4,12 @@ on: [push]
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Continue using the latest Ubuntu available
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    # Manually install Python 3.9.6 by compiling from source
     - name: Install Python 3.9.6 from source
       run: |
         sudo apt-get update
@@ -31,19 +30,12 @@ jobs:
           tk-dev \
           libffi-dev \
           uuid-dev
-
-        # Download Python 3.9.6 source code
         wget https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tgz
         tar -xf Python-3.9.6.tgz
         cd Python-3.9.6
-
-        # Configure and build Python
         ./configure --enable-optimizations
         make -j$(nproc)
-        sudo make altinstall  # Avoid replacing the system python
-
-        # Check the installed Python version
-        python3.9 --version
+        sudo make altinstall
 
     - name: Set up Python 3.9.6
       run: |
@@ -60,5 +52,8 @@ jobs:
     - name: Install dependencies
       run: python3.9 -m pip install -r requirements.txt
 
+    # Ensure the working directory is set correctly
     - name: Run your Python script
-      run: python3.9 run_chsh_inequality.py
+      run: |
+        cd path_to_the_folder_containing_script  # Change this to your correct directory
+        python3.9 run_chsh_inequality.py
