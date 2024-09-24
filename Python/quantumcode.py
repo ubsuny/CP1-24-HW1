@@ -4,7 +4,8 @@ Module Specifications - quantuncode.py
 This module implements the CHSH Inquality via IBM's quantum computing infrastructure.
 
 It is intended to be executed as an application. Functionality includes preparing
-a 2-qubit quantum circuit via qiskit, i
+a 2-qubit quantum circuit via qiskit, implementing the CHSH inequality, and running
+it on the IBM quantum infrastructure via API.
 
 All code sourced from https://learning.quantum.ibm.com/tutorial/chsh-inequality
 """
