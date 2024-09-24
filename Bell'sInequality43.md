@@ -40,11 +40,12 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 
      <img width="341" alt="image" src="https://github.com/user-attachments/assets/1b7e21a3-99a5-4be8-aa7d-48cc0016f0a8">
     $\displaystyle{P}{\left({R}_{{1}}\right)}\le{P}{\left({R}_{{2}}\right)}+{P}{\left({R}_{{3}}\right)}$
+
   The Probability that one photon will pass at $\displaystyle{0}^{o}$ and other will not pass at $\displaystyle{22.5}^{o}$
-+
-The Probability that one photon will pass at $\displaystyle{22.5}^{o}$ and other will not pass at $\displaystyle{45}^{o}$
+$\displaystyle+$
+  The Probability that one photon will pass at $\displaystyle{22.5}^{o}$ and other will not pass at $\displaystyle{45}^{o}$
 $\displaystyle\ge$
-The probability that one photon will pass at $\displaystyle{0}^{o}$ while the other will not pass at $\displaystyle{45}^{o}$
+  The probability that one photon will pass at $\displaystyle{0}^{o}$ while the other will not pass at $\displaystyle{45}^{o}$
 
 
 * Quantum Mechanical Calcualtion
