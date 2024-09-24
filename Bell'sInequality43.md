@@ -38,9 +38,10 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 * Simple version of a Bell's Inequality
    * Various possible polarization combinations of the two EPR photon
 * Quantum Mechanical Calcualtion
-   * Photon lineraly polarized at an angle $theta$ to the horizontal
+   * Photon lineraly polarized at an angle $\displaystyle\theta$ to the horizontal
      $\displaystyle{\left|\psi{\left(\theta\right)}>= \cos{{\left(\theta\right)}}\right|}{H}>+ \sin{{\left(\theta\right)}}{|}{V}>$
-
+   * Probability that such a photon will pass a horizontally-oriented beamsplitter
+     $\displaystyle{P}_{{H}}={\left|<{H}\right|}\psi{\left(\theta\right)}>{|}^{2}={{\cos}^{2}\theta}$
 
 
 
