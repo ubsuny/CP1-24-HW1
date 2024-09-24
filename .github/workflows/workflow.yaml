@@ -53,16 +53,14 @@ jobs:
     - name: Install dependencies
       run: python3.9 -m pip install -r requirements.txt
 
-    # Set the IBM Quantum API key as an environment variable from GitHub Secrets
-    - name: Set up API key from secrets
-      run: echo "API key added to environment"
-      env:
-        IBM_QUANTUM_API_KEY: ${{ secrets.IBM_QUANTUM_API_KEY }}
+    # Debug: List contents of the root directory to verify structure
+    - name: List root directory contents
+      run: ls -la
 
-    # Run your Python script with the environment variable available
+    # Run the Python script from the correct directory
     - name: Run your Python script
       run: |
-        cd chsh_inequality  # Move into the chsh_inequality directory
-        python3.9 run_chsh_inequality.py
+        cd chsh-inequality  # Move into the chsh-inequality directory
+        python3.9 run_chsh_inequality.py  # Run the Python script
       env:
         IBM_QUANTUM_API_KEY: ${{ secrets.IBM_QUANTUM_API_KEY }}
