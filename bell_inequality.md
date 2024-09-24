@@ -48,8 +48,11 @@ setting on the other particle (locality)
 - Assume measurement setting chosen independent of state of particles (free will)
 
 Consider the quantity $\displaystyle{{g}_{{n}}}$, a combination of the measurement outcomes on the $\displaystyle{n}^{{{t}{h}}}$ trial:
+
 $\displaystyle{{g}_{{n}}=}{a}_{{n}}{b}_{{n}}+{a}_{{n}}{{b}_{{n}}^{'}}+{{a}_{{n}}^{'}}{b}_{{n}}-{{a}_{{n}}^{'}}{b}^{'}$
+
 $\displaystyle{{g}_{{n}}=}{a}_{{n}}{\left({b}_{{n}}+{{b}_{{n}}^{'}}\right)}+{{a}_{{n}}^{'}}{\left({b}_{{n}}-{{b}_{{n}}^{'}}\right)}$
+
 $\displaystyle{{g}_{{{n}}}=}\pm{2}$
 
 The expectation value is therefore:
