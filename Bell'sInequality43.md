@@ -27,18 +27,19 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
    * The measurements od onedetermining the other one's states
 * Local Hidden Variable
    *  a quantity whose value is presently unknown with local property
-      "Spooky action at a distance"
+      "Spooky action at a distance" [2] (https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/)
 ## Bell's theorem
 * Proppsed by John Stewart Bell, in the paper that " On the Einstein- Podolsky-Rosen paradox", 1964.
-* A awy of distinguishing experimentally between local hidden variable theories and the predictions of Quantum Mechanics
+* A way of distinguishing experimentally between local hidden variable theories and the predictions of Quantum Mechanics
 * Bell's Inequality - $\displaystyle\rho{\left({a},{c}\right)}-\rho{\left({b},{a}\right)}-\rho{\left({b},{c}\right)}\le{1}$
    * Inequality that derived from local hidden variable theory
    * Any Quantum correlations under local hidden variable theory do not satisfy bell's inequalities.
    * Demonstration by bell test experiments
 * Simple version of a Bell's Inequality
-   * Various possible polarization combinations of the two EPR photon
+   * Various possible polarization combinations of the two EPR photon [3] (https://www.lesswrong.com/posts/AnHJX42C6r6deohTG/bell-s-theorem-no-epr-reality)
 
-     <img width="341" alt="image" src="https://github.com/user-attachments/assets/1b7e21a3-99a5-4be8-aa7d-48cc0016f0a8">
+     <img width="319" alt="image" src="https://github.com/user-attachments/assets/9949b0a7-00a4-4c56-a9eb-d60024c5d8dc">
+
     $\displaystyle{P}{\left({R}_{{1}}\right)}\le{P}{\left({R}_{{2}}\right)}+{P}{\left({R}_{{3}}\right)}$
 
   The Probability that one photon will pass at $\displaystyle{0}^{o}$ and other will not pass at $\displaystyle{22.5}^{o}$
@@ -61,14 +62,14 @@ $\displaystyle\ge$
  
   $\displaystyle{|}\psi_{\text{EPR}}>=\frac{1}{\sqrt{{2}}}{\left[{\left|\psi{\left(\theta\right)},{L}>\right|}{\left|\psi{\left(\theta\right)},{R}>+\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}>{|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right]}$
 
-* Consider that examine this state with a horizontal polarizer on the left and a polarizer at an angle $\displaystyle\phi$ to the horizontal on the right, then amplitude is
+   * Consider that examine this state with a horizontal polarizer on the left and a polarizer at an angle $\displaystyle\phi$ to the horizontal on the right, then amplitude is
    $\displaystyle{A}={\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{R}\right|}\right)}{|}\psi_{{{E}{P}{R}}}>$
     $\displaystyle{A}=\frac{1}{\sqrt{{2}}}{\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta\right)},{R}>+<{H},{L}{\left|<\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right)}$
 
   Note that we can write
   $\displaystyle<\psi{\left(\phi\right)}{\left|\psi{\left(\theta\right)}>=<{H}\right|}\psi{\left(\theta-\phi\right)}>$
 
-  * Amplitude is independent of the angle $\displaystyle\theta$ of the polarization axs of the EPR
+   * Amplitude is independent of the angle $\displaystyle\theta$ of the polarization axs of the EPR
     $\displaystyle{A}=\frac{1}{{\sqrt{{{2}}}}}\cdot{\left[ \cos{\theta}\cdot \cos{{\left(\theta-\phi\right)}}+ \cos{{\left(\theta+\frac{\pi}{{2}}\right)}}\cdot \cos{{\left(\theta+\frac{\pi}{{2}}-\phi\right)}}\right]}$
 
 $\displaystyle={1}\sqrt{{2}}{\left[ \cos{\theta} \cos{{\left(\theta-\phi\right)}}+ \sin{{\left(\theta\right)}} \sin{{\left(\theta-\phi\right)}}\right]};$
@@ -77,9 +78,26 @@ $={1}\sqrt{{2}}{1}{2}{\left[ \cos{{\left(\phi\right)}}+ \cos{{\left({2}\theta-\p
 
 $={1}\sqrt{{2}} \cos{\phi}$
 
-  * We can conclude that the probabilty of the left photon passing the 
+   * We can conclude that the probabilty of the left photon passing the left polarizer at an angle $\displaystyle{0}$ and the right photon passing the right polarizer at an angle $\displaystyle\phi$
+      $\displaystyle{P}={\left|{A}\right|}^{2}=\frac{1}{{2}}\cdot{{\cos}^{2}\phi}$
+    If a photon on the right passes at an angle $\displaystyle\phi$, then it fails to emerge from the other arm of a polarization beamspitter, an arm that passes a photon of the polarization angle $\displaystyle\phi-\frac{\pi}{{2}}$.
+    Probability of the left photon passing the left polarizer at angle $\displaystyle{0}$ and the right photon failing to pass the right polarizer at an angle $\displaystyle\phi$ is
+    $\displaystyle{P}_{{\phi}}=\frac{1}{{2}}\cdot{{\cos}^{2}{\left(\phi+\frac{-\pi}{{2}}\right)}}=\frac{1}{{2}}\cdot{{\sin}^{2}\phi}$
+The choice of the polarizer orientation on the left as horizontalis arbitrary.
 
+The probability that one photon will pass at $\displaystyle{0}^{o}$ and the other will not pass at $\displaystyle{22.5}^{o}$ 
+      $\displaystyle{\left(\frac{1}{{2}}\right)}{{\sin}^{2}{\left({22.5}^{o}\right)}}={0.0732}$
+        +
+The probability that one photon will pass at $\displaystyle{22.5}^{o}$ and the other will not pass at $\displaystyle{45}^{o}$ 
+      $\displaystyle{\left(\frac{1}{{2}}\right)}{{\sin}^{2}{\left({22.5}^{o}\right)}}={0.0732}$
+          $\displaystyle={0.1464}$
+But the probability that one photon will pass at $\displaystyle{0}^{o}$ while the other will not pass at $\displaystyle{45}^{o}$ 
+            $\displaystyle{\left(\frac{1}{{2}}\right)}{{\sin}^{2}{\left({45}^{o}\right)}}={0.25}$
 
+It means $\displaystyle{0.25}>{0.0732}+{0.1464}$
+A calcualtion that also apperas to agree well with experiment.
+                 
+         
 
 
 
@@ -90,6 +108,6 @@ $={1}\sqrt{{2}} \cos{\phi}$
 
 ## References:
 [1][A. Einstein, B. Podolsky, N. Rosen: "Can quantum-mechanical description of physical reality be considered complete?" Physical Review 41, 777 (15 May 1935)]{https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf}
-
-
+[2] {https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/}
+[3] {https://www.lesswrong.com/posts/AnHJX42C6r6deohTG/bell-s-theorem-no-epr-reality}
 
