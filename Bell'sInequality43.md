@@ -71,9 +71,11 @@ $\displaystyle\ge$
   * Amplitude is independent of the angle $\displaystyle\theta$ of the polarization axs of the EPR
     $\displaystyle{A}=\frac{1}{{\sqrt{{{2}}}}}\cdot{\left[ \cos{\theta}\cdot \cos{{\left(\theta-\phi\right)}}+ \cos{{\left(\theta+\frac{\pi}{{2}}\right)}}\cdot \cos{{\left(\theta+\frac{\pi}{{2}}-\phi\right)}}\right]}$
 
-$\displaystyle={1}\sqrt{{2}}{\left[ \cos{\theta} \cos{{\left(\theta-\phi\right)}}+ \sin{{\left(\theta\right)}} \sin{{\left(\theta-\phi\right)}}\right]};
-={1}\sqrt{{2}}{1}{2}{\left[ \cos{{\left(\phi\right)}}+ \cos{{\left({2}\theta-\phi\right)}}+ \cos{{\left(\phi\right)}}- \cos{{\left({2}\theta-\phi\right)}}\right]};
-={1}\sqrt{{2}} \cos{\phi}$
+$\displaystyle={1}\sqrt{{2}}{\left[ \cos{\theta} \cos{{\left(\theta-\phi\right)}}+ \sin{{\left(\theta\right)}} \sin{{\left(\theta-\phi\right)}}\right]};$
+
+$={1}\sqrt{{2}}{1}{2}{\left[ \cos{{\left(\phi\right)}}+ \cos{{\left({2}\theta-\phi\right)}}+ \cos{{\left(\phi\right)}}- \cos{{\left({2}\theta-\phi\right)}}\right]};$
+
+$={1}\sqrt{{2}} \cos{\phi}$
 
 
 
