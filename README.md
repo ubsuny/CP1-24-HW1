@@ -27,7 +27,7 @@ Also use discord for discussing solutions to any issues popping up.
 #### Algorithm:
 - do not commmit your IBM quantum API key!
 - generate the necessary files to run the code, not just the function
-  
+
 #### Documentation:
 - markdown file explaining how to run the code
 - markdown file explaining physics
@@ -46,7 +46,7 @@ Also use discord for discussing solutions to any issues popping up.
 | Closed Issues                    | 6              | $\frac 1 3$  | 2          |
 | \# Conversations                 | 25             | $\frac 1 5$  | 5          |
 |                                  |                |              |            |
-| Total                            | 43             |              | 16         |
+| Total                            | 44             |              | 16         |
 |                                  |                |              |            |
 | Shared project points            |                |              |            |
 | \# Label                         | 8              | $\frac 1 2$  | 4          |
