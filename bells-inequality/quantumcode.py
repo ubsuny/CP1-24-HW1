@@ -41,7 +41,10 @@ from qiskit_ibm_runtime import EstimatorV2 as Estimator
 import matplotlib.pyplot as plt
 import matplotlib.ticker as tck
 
-
+# To run on hardware, select the backend with the fewest number of jobs in the queue
+service = QiskitRuntimeService(channel="ibm_quantum")
+backend = service.least_busy(operational=True, simulator=False, min_num_qubits=127)
+backend.name
 
 chsh_circuit = QuantumCircuit(2)    # Initialize a quantum circut with 2 qubits
 chsh_circuit.h(0)                   # Add a hadamard gate to the first qubit
