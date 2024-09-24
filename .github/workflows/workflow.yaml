@@ -55,5 +55,5 @@ jobs:
     # Ensure the working directory is set correctly
     - name: Run your Python script
       run: |
-        cd chsh_inequality  # Move into the chsh_inequality directory
+        cd chsh-inequality  # Correct directory name with a hyphen
         python3.9 run_chsh_inequality.py  # Run the Python script
