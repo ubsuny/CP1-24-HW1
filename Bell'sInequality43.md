@@ -15,8 +15,11 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 
 
 ## Hidden Variable Theory:
-*Arguement about uncertanity property of Quantum Mechanics
-
+* Arguement about uncertanity property of Quantum Mechanics
+* Hidden Variable
+   * Investing Quantum Mechanics with Local Realism
+   * Underlying deterministic unknown variable in Quantum Mechanics
+* Bohm's Hidden Variable Theory
 
 ## References:
 [1][A. Einstein, B. Podolsky, N. Rosen: "Can quantum-mechanical description of physical reality be considered complete?" Physical Review 41, 777 (15 May 1935)]{https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf}
