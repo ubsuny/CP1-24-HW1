@@ -1,7 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/python:3.12-bullseye",
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "python3 -m pip install -r Requirements/qiskit.txt",
+  "updateContentCommand": "/usr/bin/python3 -m pip install -r Requirements/qiskit.txt && /usr/local/bin/python3 -m pip install -r Requirements/qiskit.txt",
   "postCreateCommand": "",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
