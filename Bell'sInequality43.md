@@ -61,6 +61,9 @@ $\displaystyle\ge$
  
   $\displaystyle{|}\psi_{\text{EPR}}>=\frac{1}{\sqrt{{2}}}{\left[{\left|\psi{\left(\theta\right)},{L}>\right|}{\left|\psi{\left(\theta\right)},{R}>+\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}>{|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right]}$
 
+* Consider that examine this state with a horizontal polarizer on the left and a polarizer at an angle $\displaystyle\phi$ to the horizontal on the right, then amplitude is
+   $\displaystyle{A}={\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{R}\right|}\right)}{|}\psi_{{{E}{P}{R}}}>$
+    $\displaystyle{A}=\frac{1}{\sqrt{{2}}}{\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta\right)},{R}>+<{H},{L}{\left|<\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right)}$
 
 
 
