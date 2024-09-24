@@ -15,7 +15,7 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
 
 
 ## Hidden Variable Theory:
-### Arguement about uncertanity property of Quantum Mechanics
+*Arguement about uncertanity property of Quantum Mechanics
 
 
 ## References:
