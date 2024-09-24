@@ -10,6 +10,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    # Install Python 3.9.6 manually from source
     - name: Install Python 3.9.6 from source
       run: |
         sudo apt-get update
@@ -52,8 +53,16 @@ jobs:
     - name: Install dependencies
       run: python3.9 -m pip install -r requirements.txt
 
-    # Ensure the working directory is set correctly
+    # Set the IBM Quantum API key as an environment variable from GitHub Secrets
+    - name: Set up API key from secrets
+      run: echo "API key added to environment"
+      env:
+        IBM_QUANTUM_API_KEY: ${{ secrets.IBM_QUANTUM_API_KEY }}
+
+    # Run your Python script with the environment variable available
     - name: Run your Python script
       run: |
-        cd chsh-inequality  # Correct directory name with a hyphen
-        python3.9 run_chsh_inequality.py  # Run the Python script
+        cd chsh_inequality  # Move into the chsh_inequality directory
+        python3.9 run_chsh_inequality.py
+      env:
+        IBM_QUANTUM_API_KEY: ${{ secrets.IBM_QUANTUM_API_KEY }}
