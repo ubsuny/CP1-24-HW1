@@ -65,9 +65,15 @@ $\displaystyle\ge$
    $\displaystyle{A}={\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{R}\right|}\right)}{|}\psi_{{{E}{P}{R}}}>$
     $\displaystyle{A}=\frac{1}{\sqrt{{2}}}{\left(<{H},{L}{\left|<\psi{\left(\theta\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta\right)},{R}>+<{H},{L}{\left|<\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}><\psi{\left(\phi\right)},{R}\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right)}$
 
+  Note that we can write
+  $\displaystyle<\psi{\left(\phi\right)}{\left|\psi{\left(\theta\right)}>=<{H}\right|}\psi{\left(\theta-\phi\right)}>$
 
+  * Amplitude is independent of the angle $\displaystyle\theta$ of the polarization axs of the EPR
+    $\displaystyle{A}=\frac{1}{{\sqrt{{{2}}}}}\cdot{\left[ \cos{\theta}\cdot \cos{{\left(\theta-\phi\right)}}+ \cos{{\left(\theta+\frac{\pi}{{2}}\right)}}\cdot \cos{{\left(\theta+\frac{\pi}{{2}}-\phi\right)}}\right]}$
 
-
+$\displaystyle={1}\sqrt{{2}}{\left[ \cos{\theta} \cos{{\left(\theta-\phi\right)}}+ \sin{{\left(\theta\right)}} \sin{{\left(\theta-\phi\right)}}\right]};
+={1}\sqrt{{2}}{1}{2}{\left[ \cos{{\left(\phi\right)}}+ \cos{{\left({2}\theta-\phi\right)}}+ \cos{{\left(\phi\right)}}- \cos{{\left({2}\theta-\phi\right)}}\right]};
+={1}\sqrt{{2}} \cos{\phi}$
 
 
 
