@@ -40,7 +40,7 @@ The theorem's assumes that:
 
 - Perform experiment N times, each trial labelled by n.
 - Two measurement settings on each particle represented by vectors *a, a’* and *b, b’*
-- Measurement outcomes labelled $\displaystyle{a}_{{n}},{a}_{{n}}\text{'}{\quad\text{and}\quad}{b}_{{n}},{b}_{{n}}\text{'}$.
+- Measurement outcomes labelled $$\displaystyle{a}_{{n}},{a}_{{n}}\text{'}{\quad\text{and}\quad}{b}_{{n}},{b}_{{n}}\text{'}$$.
 - There can be two measurement outcomes with value 1 or -1
 - Assume each measurement reveals a pre-existing property (realism)
 - Assume measurement outcome on one of particles not influenced by measurement
@@ -57,14 +57,12 @@ $\displaystyle{\left|\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{
 $\displaystyle{C}{\left({a},{b}\right)}={|}\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{a}_{{n}}{b}_{{n}}$
 $\displaystyle{\left|{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$
 
-Note: Note that in deriving the CHSH inequality we have not assumed any
-particular theory, only that it has to be a local, realistic theory. This is the
-power, generality and simplicity of the result. It provides a bound on any
-theory of this type.
+Note: Note that in deriving the CHSH inequality we have not assumed any particular theory, only that it has to be a local, realistic theory. This is the power, generality and simplicity of the result. It provides a bound on any theory of this type.
 
 
 
 References:
+
 [1](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) Albert Einstein, Boris Podolsky, and Nathan Rosen. “Can quantum-mechanical description of physical reality be considered complete?” In: Physical review 47.10 (1935), p. 777.
 
 [2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.85.166) D. Bohm, A suggested interpretation of the quantum theory in terms of hidden variables. Phys. Rev. 85, 166 (1952)
