@@ -127,8 +127,13 @@ def analyze_results(counts):
 def run_on_real_device():
     qc = chsh_circuit(angles['a'], angles['b'])
 
-    # Load the API key from the api_credentials file
-    api_key = load_api_key_from_file('keys/api_credentials.txt')
+    # Load the API key from the environment variable
+    api_key = os.getenv('IBM_QUANTUM_API_KEY')
+    # Check if the API key was loaded properly
+    if api_key is None:
+        raise ValueError("API key not found in environment variables. Please set the IBM_QUANTUM_API_KEY.")
+
+# Load the IBM Quantum account directly using the API key
 
     # Save and load the account using the API key
     IBMProvider.save_account(api_key, overwrite=True)

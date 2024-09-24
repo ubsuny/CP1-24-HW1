@@ -1,0 +1,29 @@
+name: Run Qiskit Experiment
+
+on: [push]
+
+jobs:
+  run-experiment:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Run the Python script and pass the API key
+      - name: Run CHSH inequality script
+        env:
+          IBM_QUANTUM_API_KEY: ${{ secrets.IBM_QUANTUM_API_KEY }}  # Access the secret
+        run: |
+          python run_chsh_inequality.py
