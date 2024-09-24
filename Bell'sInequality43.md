@@ -20,6 +20,36 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
    * Investing Quantum Mechanics with Local Realism
    * Underlying deterministic unknown variable in Quantum Mechanics
 * Bohm's Hidden Variable Theory
+* Local Hidden Variable Theory
+   * Principle that an object is only directly influenced by its immediate surroundings
+* EPR paradox - showed non-locality of Quantum Mechanics
+   * Two Photons that separated so far apart
+   * The measurements od onedetermining the other one's states
+* Local Hidden Variable
+   *  a quantity whose value is presently unknown with local property
+      " Spooky action at a distance"
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## References:
 [1][A. Einstein, B. Podolsky, N. Rosen: "Can quantum-mechanical description of physical reality be considered complete?" Physical Review 41, 777 (15 May 1935)]{https://cds.cern.ch/record/405662/files/PhysRev.47.777.pdf}
