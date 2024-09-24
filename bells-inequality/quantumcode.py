@@ -43,7 +43,7 @@ import matplotlib.ticker as tck
 
 # To run on hardware, select the backend with the fewest number of jobs in the queue
 service = QiskitRuntimeService(channel="ibm_quantum")
-backend = service.least_busy(operational=True, simulator=False, min_num_qubits=127)
+backend = service.least_busy(operational=True, simulator=False, min_num_qubits=2)
 backend.name
 
 chsh_circuit = QuantumCircuit(2)    # Initialize a quantum circut with 2 qubits
