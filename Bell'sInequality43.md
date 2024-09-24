@@ -56,6 +56,11 @@ $\displaystyle\ge$
 
      $\displaystyle{P}_{{H}}={\left|<{H}\right|}\psi{\left(\theta\right)}>{|}^{2}={{\cos}^{2}\theta}$
 
+   * Two different photon modes: propagating to the left (L) and to the right (R)
+   * EPR state with the two orthogonal polarization states ( generalized form : $\displaystyle\theta$ and $\displaystyle\theta+\frac{\pi}{{2}}$ , instead of horizontal and vertical) 
+ 
+  $\displaystyle{|}\psi_{\text{EPR}}>=\frac{1}{\sqrt{{2}}}{\left[{\left|\psi{\left(\theta\right)},{L}>\right|}{\left|\psi{\left(\theta\right)},{R}>+\right|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{L}>{|}\psi{\left(\theta+\frac{\pi}{{2}}\right)},{R}>\right]}$
+
 
 
 
