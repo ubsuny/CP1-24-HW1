@@ -27,8 +27,11 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
    * The measurements od onedetermining the other one's states
 * Local Hidden Variable
    *  a quantity whose value is presently unknown with local property
-      " Spooky action at a distance"
- 
+      "Spooky action at a distance"
+  ## Bell's theorem
+  * Proppsed by John Stewart Bell, in the paper that " On the Einstein- Podolsky-Rosen paradox", 1964.
+  * A awy of distinguishing experimentally between local hidden variable theories and the predictions of Quantum Mechanics
+  * Bell's Inequality - rho(a,c)- rho(b,a)- rho(b,c) le 1
 
 
 
