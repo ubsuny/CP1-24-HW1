@@ -4,22 +4,36 @@ on: [push]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04  # Use Ubuntu 20.04 which supports manual Python installation
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Python 3.9.6  # Ensure you're using Python 3.9.6
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9.6'  # Specify Python 3.9.6 explicitly
+    # Install Python 3.9.6 manually
+    - name: Install Python 3.9.6
+      run: |
+        sudo apt-get update
+        sudo apt-get install software-properties-common
+        sudo add-apt-repository ppa:deadsnakes/ppa
+        sudo apt-get update
+        sudo apt-get install python3.9=3.9.6-1~20.04
+        sudo apt-get install python3.9-distutils
 
-    - name: Install distutils if necessary  # For Python 3.9, distutils should already be included, but just in case
-      run: sudo apt-get install python3-distutils
+    - name: Set up Python 3.9.6
+      run: |
+        sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 1
+        sudo update-alternatives --set python3 /usr/bin/python3.9
+        python3 --version
+
+    - name: Install pip for Python 3.9.6
+      run: |
+        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+        python3 get-pip.py
+        pip --version
 
     - name: Install dependencies
       run: pip install -r requirements.txt
 
     - name: Run your Python script
-      run: python run_chsh_inequality.py
+      run: python3 run_chsh_inequality.py
