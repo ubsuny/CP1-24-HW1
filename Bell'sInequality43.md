@@ -37,6 +37,9 @@ Quantum Mechanics suggests that observation influences reality, and can do so re
    * Demonstration by bell test experiments
 * Simple version of a Bell's Inequality
    * Various possible polarization combinations of the two EPR photon
+
+     <img width="341" alt="image" src="https://github.com/user-attachments/assets/1b7e21a3-99a5-4be8-aa7d-48cc0016f0a8">
+
 * Quantum Mechanical Calcualtion
    * Photon lineraly polarized at an angle $\displaystyle\theta$ to the horizontal
 
