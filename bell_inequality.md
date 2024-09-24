@@ -40,7 +40,8 @@ The theorem's assumes that:
 
 - Perform experiment N times, each trial labelled by n.
 - Two measurement settings on each particle represented by vectors *a, a’* and *b, b’*
-- Measurement outcomes labelled $\displaystyle{a}_{{n}},{a}_{{n}}\text{'}{\quad\text{and}\quad}{b}_{{n}},{b}_{{n}}\text{'}$
+- Measurement outcomes labelled
+  $\displaystyle{a}_{{n}},{a}_{{n}}\text{'}{\quad\text{and}\quad}{b}_{{n}},{b}_{{n}}\text{'}$
 - There can be two measurement outcomes with value 1 or -1
 - Assume each measurement reveals a pre-existing property (realism)
 - Assume measurement outcome on one of particles not influenced by measurement
