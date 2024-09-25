@@ -115,9 +115,8 @@ Thus, quantum mechnaics manifestly violates Bell's inequalities. Turns out, thro
 
 Experimental set-ups testing Bell's inequality may involve a two channel set-up or a single-channel set-up. 
 ### Two Channel Scheme
-![Alt Text](https://encyclopedia.pub/media/common/202211/mceclip0-63808cdc4873a.png)
 
-The source S produces pairs of photons sent in opposite directions where they encounter two-channel polarisers. The orientations of the polarizers are set b the experimenter. The coincidence monitor (CM) dectects coincidences and counts them. Coincidences are simultaneous detections recorded as $$'++','+-','-+','--'$$. The angles which the polarizers are set to, $$a, a', b, b'$$ are generally chosen to be $$0, 45, 22.5, and 67.5$$ degrees respectively. These are the "Bell Test Angles," which are chosen for giving the greatest violation of Bell's inequality with the quantum mechanical formula. With this, the states used in Bell's inequality are $$<ab>, <ab'>, <a'b>, <a'b'>$$ The experimental esitmate of each state E(a,b) is calculated from the coincidences. 
+A source S produces pairs of photons sent in opposite directions where they encounter two-channel polarisers. The orientations of the polarizers are set b the experimenter. The coincidence monitor (CM) dectects coincidences and counts them. Coincidences are simultaneous detections recorded as $$'++','+-','-+','--'$$. The angles which the polarizers are set to, $$a, a', b, b'$$ are generally chosen to be $$0, 45, 22.5, and 67.5$$ degrees respectively. These are the "Bell Test Angles," which are chosen for giving the greatest violation of Bell's inequality with the quantum mechanical formula. With this, the states used in Bell's inequality are $$<ab>, <ab'>, <a'b>, <a'b'>$$ The experimental esitmate of each state E(a,b) is calculated from the coincidences. 
 
 $$E=(N<sub>++</sub>+N<sub>--</sub>-N<sub>+-</sub>-N<sub>-+</sub>)/(N<sub>++</sub>+N<sub>--</sub>+N<sub>+-</sub>+N<sub>-+</sub>)$$. 
 
@@ -126,7 +125,6 @@ Once E has been estimated for all four states the test statistic may be calculat
 $$S=E(a,b)-E(a,b')+E(a',b)+E(a',b')$$ If this is numerically greater than 2, it has infringed the CHSH inequality. 
 
 ### Single Channel Scheme
-![Alt Text](https://encyclopedia.pub/media/common/202211/mceclip1-63808d1238b46.png)
 
 A source S produces pairs of photons sent in opposite directions to encounter a single channel polarizer with an orientation set by the experimenter. Again, coincidences are counted by the Coincidence Monitor. What sets this apart from the two-channel scheme is that there are additional subexperiments to get states where one or both polarizers are absent. This set-up was used prior to 1982, described in Clauser, Horne, Shimony, and Holt in their 1969 article. 
 This time, the test statistic is defined by 
@@ -139,17 +137,24 @@ There have also been more recent experiments performed such that they were not s
 
 Some of the best known and more recent experiments include: 
 
-### Freedman and Clauser (1972)$$^{[5]}$$
+### Freedman and Clauser (1972)
+“Bell Test Experiments.” Encyclopedia, HandWiki, 29 Nov. 2022, encyclopedia.pub/entry/36569
+
 This was the first actual Bell test. It used Freedman's inequality
 
-### Aspect et al. (1982)$$^{[5]}$$
+### Aspect et al. (1982)
+“Bell Test Experiments.” Encyclopedia, HandWiki, 29 Nov. 2022, encyclopedia.pub/entry/36569
 
 Alain Aspect and his team conducted three bell tests using calcium cascade sources. The first and last used the CH74 inequality while the seccond was the first application of the CHSH inequality. The third test is most famous for the fact that the choice between the two settings on each side was made during the flight of the photons as originally suggested by John Bell
 
-### Weihs et al. (1998): Experiment under "Strict Einstein Locality" Conditions$$^{[5]}$$
+### Weihs et al. (1998): Experiment under "Strict Einstein Locality" Conditions
+“Bell Test Experiments.” Encyclopedia, HandWiki, 29 Nov. 2022, encyclopedia.pub/entry/36569
+
 Gregor Weihs and a team conducted an experiment to close the locality loophole. The choice of detector was made using a quantum process to ensure that it was random. 
 
-### Rowe et al. (2001): the First to Close the Detection Loophole$$^{[5]}$$
+### Rowe et al. (2001): the First to Close the Detection Loophole
+“Bell Test Experiments.” Encyclopedia, HandWiki, 29 Nov. 2022, encyclopedia.pub/entry/36569
+
 This experiment by the group of David Wineland used two entangled trapped ions to get detection efficiencies well over 90%.
 
 ## References
