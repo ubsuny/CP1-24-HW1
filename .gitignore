@@ -30,5 +30,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+quantumcodetest.py
 
 # Source: https://github.com/github/gitignore/blob/main/Python.gitignore
