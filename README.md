@@ -1,5 +1,8 @@
 # Homework Task
 
+# EDITING IN README
+# EDITING IN README 2
+
 **Implement Bell's inequality on the IBM quantum computer and document the code as well as the physics in a seperate markdown file.**
 ---
 

@@ -32,7 +32,7 @@ It was cast in terms of a hidden variable theory.The essence of Bell’s theorem
 The theorem's assumes that:
 - no influence between space-like separated like separated events.
 - properties of objects exist in some sense
-- independent of measurement choice.
+- independent of measurement choice. 
 
 
 
