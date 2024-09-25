@@ -1,4 +1,4 @@
-# How to run the codce in this repository?
+# How to run the code in this repository?
 
 To test the code in this repository you can use the included codespace. There is a special environment called "qiskit" that includes all the necessary libraries to run the code examples.
 
