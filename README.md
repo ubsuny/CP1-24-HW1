@@ -7,3 +7,4 @@ Contents:
 3. unit-testing - folder for unit tests for the code
 4. Requirements - folder containing qiskit documentation
 5. jupyter-notebooks - folder containing jupyter notebook to test the code locally, on a classical computer
+6. Running-Instructions - folder containing instructions on how to set up and run the code
