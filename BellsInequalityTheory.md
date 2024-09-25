@@ -139,16 +139,17 @@ There have also been more recent experiments performed such that they were not s
 
 Some of the best known and more recent experiments include: 
 
-### Freedman and Clauser (1972)
+### Freedman and Clauser (1972)$$^{[5]}$$
 This was the first actual Bell test. It used Freedman's inequality
 
-### Aspect et al. (1982)
+### Aspect et al. (1982)$$^{[5]}$$
+
 Alain Aspect and his team conducted three bell tests using calcium cascade sources. The first and last used the CH74 inequality while the seccond was the first application of the CHSH inequality. The third test is most famous for the fact that the choice between the two settings on each side was made during the flight of the photons as originally suggested by John Bell
 
-### Weihs et al. (1998): Experiment under "Strict Einstein Locality" Conditions
+### Weihs et al. (1998): Experiment under "Strict Einstein Locality" Conditions$$^{[5]}$$
 Gregor Weihs and a team conducted an experiment to close the locality loophole. The choice of detector was made using a quantum process to ensure that it was random. 
 
-### Rowe et al. (2001): the First to Close the Detection Loophole
+### Rowe et al. (2001): the First to Close the Detection Loophole$$^{[5]}$$
 This experiment by the group of David Wineland used two entangled trapped ions to get detection efficiencies well over 90%.
 
 ## References
