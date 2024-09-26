@@ -14,10 +14,10 @@ $$
 $$
 
 This state describes two qubits, where:
-- \(|01\rangle\): The first qubit is in state \( |0\rangle \) (e.g., spin down), and the second is in state \( |1\rangle \) (e.g., spin up).
-- \(|10\rangle\): The first qubit is in state \( |1\rangle \) (spin up), and the second is in state \( |0\rangle \) (spin down).
+- \(|01\rangle\): The first qubit is in state \(|0\rangle\) (e.g., spin down), and the second is in state \(|1\rangle\) (e.g., spin up).
+- \(|10\rangle\): The first qubit is in state \(|1\rangle\) (spin up), and the second is in state \(|0\rangle\) (spin down).
 
-The overall state is a superposition where the particles are perfectly anti-correlated, meaning that if one particle is measured to be \( |0\rangle \), the other will definitely be \( |1\rangle \), and vice versa.
+The overall state is a superposition where the particles are perfectly anti-correlated.
 
 ## Mathematical Derivation of Bell's Inequality
 
@@ -26,23 +26,29 @@ To understand Bell's inequality, consider two entangled particles measured by ob
 $$ E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda) $$
 
 where:
-## Definition of Variables
 - `$A(a, \lambda)$` and `$B(b, \lambda)$` represent measurement outcomes.
-- `$ \rho(\lambda)$` is the probability distribution of hidden variables.
+- `$\rho(\lambda)$` is the probability distribution of hidden variables.
 
 ## Derivation
 
 1. The expectation value of the product of Alice's and Bob's outcomes for a given pair of settings \( (a, b) \) is defined as:
 
-   $$ E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda) $$
+   $$
+   E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda)
+   $$
 
 2. Combine expectation values to form the inequality:
 
-   $$ S = E(a, b) - E(a, b') + E(a', b) + E(a', b') $$
+   $$
+   S = E(a, b) - E(a, b') + E(a', b) + E(a', b')
+   $$
 
 3. Under local hidden variable assumptions, we derive:
 
-   $$ |S| \leq 2 $$
+   $$
+   |S| \leq 2
+   $$
+
 
 ### Referances 
 1. https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf
