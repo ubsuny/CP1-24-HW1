@@ -27,28 +27,22 @@ $$ E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda) $$
 
 where:
 ## Definition of Variables
-- '\( A(a, \lambda) \)' and '\( B(b, \lambda) \)' represent measurement outcomes.
-- '\( \rho(\lambda) \)' is the probability distribution of hidden variables.
+- `$A(a, \lambda)$` and `$B(b, \lambda)$` represent measurement outcomes.
+- `$ \rho(\lambda)$` is the probability distribution of hidden variables.
 
 ## Derivation
 
 1. The expectation value of the product of Alice's and Bob's outcomes for a given pair of settings \( (a, b) \) is defined as:
 
-   $$
-   E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda)
-   $$
+   $$ E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda) $$
 
 2. Combine expectation values to form the inequality:
 
-   $$
-   S = E(a, b) - E(a, b') + E(a', b) + E(a', b')
-   $$
+   $$ S = E(a, b) - E(a, b') + E(a', b) + E(a', b') $$
 
 3. Under local hidden variable assumptions, we derive:
 
-   $$
-   |S| \leq 2
-   $$
+   $$ |S| \leq 2 $$
 
 ### Referances 
 1. https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf
