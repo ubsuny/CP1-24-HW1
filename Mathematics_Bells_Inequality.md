@@ -14,9 +14,18 @@ $$
 $$
 
 This state describes two qubits, where:
-\(|01\rangle\): The first qubit is in state \(|0\rangle\) (e.g., spin down), and the second is in state \(|1\rangle\) (e.g., spin up).
 
-\(|10\rangle\): The first qubit is in state \(|1\rangle\) (spin up), and the second is in state \(|0\rangle\) (spin down).
+$$
+\(|01\rangle\)
+$$
+
+The first qubit is in state $\(|0\rangle\)$ (e.g., spin down), and the second is in state $\(|1\rangle\)$ (e.g., spin up).
+
+$$
+\(|10\rangle\)
+$$
+
+The first qubit is in state $\(|1\rangle\)$ (spin up), and the second is in state $\(|0\rangle\)$ (spin down).
 
 The overall state is a superposition where the particles are perfectly anti-correlated.
 
@@ -28,9 +37,23 @@ $$ E(a, b) = \int d\lambda \, \rho(\lambda) A(a, \lambda) B(b, \lambda) $$
 
 where:
 
-`$A(a, \lambda)$` and `$B(b, \lambda)$` represent measurement outcomes.
+$$
+A(a, \lambda)
+$$
 
-`$\rho(\lambda)$` is the probability distribution of hidden variables.
+and
+
+$$
+B(b, \lambda)
+$$
+
+represent measurement outcomes.
+
+$$
+\rho(\lambda)
+$$ 
+
+is the probability distribution of hidden variables.
 
 ## Derivation
 
