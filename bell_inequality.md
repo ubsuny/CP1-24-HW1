@@ -49,16 +49,18 @@ setting on the other particle (locality)
 
 Consider the quantity $\displaystyle{{g}_{{n}}}$, a combination of the measurement outcomes on the $\displaystyle{n}^{{{t}{h}}}$ trial:
 
-$\displaystyle{{g}_{{n}}=}{a}_{{n}}{b}_{{n}}+{a}_{{n}}{{b}_{{n}}^{'}}+{{a}_{{n}}^{'}}{b}_{{n}}-{{a}_{{n}}^{'}}{b}^{'}$
+$$\displaystyle{{g}_{{n}}=}{a}_{{n}}{b}_{{n}}+{a}_{{n}}{{b}_{{n}}^{'}}+{{a}_{{n}}^{'}}{b}_{{n}}-{{a}_{{n}}^{'}}{b}^{'}$$
 
-$\displaystyle{{g}_{{n}}=}{a}_{{n}}{\left({b}_{{n}}+{{b}_{{n}}^{'}}\right)}+{{a}_{{n}}^{'}}{\left({b}_{{n}}-{{b}_{{n}}^{'}}\right)}$
+$$\displaystyle{{g}_{{n}}=}{a}_{{n}}{\left({b}_{{n}}+{{b}_{{n}}^{'}}\right)}+{{a}_{{n}}^{'}}{\left({b}_{{n}}-{{b}_{{n}}^{'}}\right)}$$
 
-$\displaystyle{{g}_{{{n}}}=}\pm{2}$
+$$\displaystyle{{g}_{{{n}}}=}\pm{2}$$
 
 The expectation value is therefore:
 
 $$\displaystyle{\left|\lim_{{{N}\to\infty}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{{g}_{{n}}{\left|=\right|}}{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$$
+
 $$\displaystyle{C}{\left({a},{b}\right)}=\lim_{{{h}\to{0}}}\frac{1}{{N}}{\sum_{{{n}={1}}}^{{N}}}{a}_{{n}}{b}_{{n}}$$
+
 $$\displaystyle{\left|{C}{\left({a},{b}\right)}+{C}{\left({a},{b}^{'}\right)}+{C}{\left({a}^{'},{b}\right)}-{C}{\left({a}^{'},{b}^{'}\right)}\right|}\le{2}$$
 
 Note: Note that in deriving the CHSH inequality we have not assumed any particular theory, only that it has to be a local, realistic theory. This is the power, generality and simplicity of the result. It provides a bound on any theory of this type.
