@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TITLE
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: FIRST NAME
+    family-names: LAST NAME
+    email: EMAIL
+    affiliation: University of Buffalo
+repository-code: 'REPOSITORY URL'
+version: 1.0.0
+abstract: >-
+ Description of code.
+license: CC0-1.0
+date-released: DATE PUBLISHED
